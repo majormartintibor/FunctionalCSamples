@@ -1,6 +1,5 @@
 ﻿using Functional;
 using System.Collections.Immutable;
-using System.Security.Cryptography;
 
 namespace Tests;
 public class AggregatePocTests
